@@ -5,3 +5,4 @@ In this work, we have obtained model parameters for S- wave using scattering pha
 
 The Cluster_Formation_Model.pdf is a paper titled "Alpha preformation probability from Cluster Formation Model using AME-2020"
 Which also done under the guidance of Prof. O.S.K.S. Sastri, Central University of Himachal Pradesh.
+In this work, we examined the alpha-cluster preformation factors for the actinide region to confirm the relative longevity of odd N nuclei compared to their even N neighbors using experimental BEs from the atomic mass evaluation in AME2020.
